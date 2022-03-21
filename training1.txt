@@ -1,0 +1,45 @@
+
+
+html is a markup languge.. 
+a markup languge is not a programming languge bcos its based on tags 
+or predefine tags. 
+a tag is just anything statemnt that has this <> </>
+
+<> this is an opening tag
+</> this is a close tag
+
+html is the structure of every web pages; mobile pages, web pages. any kind of website or web applications
+html gives the website its structure.. 
+html is basicall made of the folling basic elements 
+
+<!DOCTYPE ..> -- the DOCTYPE is used to tell the browser the kind of document its is expectig. 
+for html DOCTYPE is defined as follows <!DOCTYPE html>
+
+Although modern browsers can easily detect html documents, but its best practise to always define your DOCTYPE in EVERY HTML pages
+
+
+<html> </html> tag  - the html tag is used to tell the browser where the html documents starts 
+every html documents or elements must be enclose on the <html> tag
+
+
+<head></head> tag -- the head tag is where we store the style sheets or any information we need to tell the browser on how to handle the html document
+Although modern browsers to interpret body tags written on <head tag> but normally anything written on the head tag should not be senn by a user. 
+next tag is the
+<body> </body> tag -- this is where all elements meant to display information to the user is written. 
+
+inside the bbody tag. 
+we have elements like 
+
+<h1> </h1>
+Mh2> <h2> 
+
+.... this is heading tag. note the different between heading tags and <head> tag
+<h6> </h6> 
+
+
+<P> </p> this is paragraph tags , jus like your normal paragraph in ms word
+
+
+<a> </a> - this is called anchor tag. its used to link one page to another page. 
+
+this is the baisc elements structure of every html page
