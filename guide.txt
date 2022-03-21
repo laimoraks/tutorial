@@ -1,0 +1,24 @@
+i will be updating this guide on daily basis
+also, questions and ans are expected..
+
+for reference purpose, we wil be using 
+https://w3schools.com
+
+please at this stage, do not use another resources
+it will get you more confused and you will loose focus and waste more learning time
+
+
+
+
+training starts 21/3/2022..
+
+
+training guide for 21/3/2022
+
+//////////starts /////////
+
+Introduction to html.
+html basics
+html elements
+
+//////////////end ///////////// 
